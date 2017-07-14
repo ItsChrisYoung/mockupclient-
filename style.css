@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|EB+Garamond');
+
+#bob {
+    height: 60px;
+    float: right;
+}
+.h1 {
+    text-align:center;
+    font-family: Gothic;
+    font-size:50px;
+}
+
+
+.h2 {
+    text-align:center;
+    font-family: Gothic;
+    font-size:20px;
+}
+
+
+.page {
+    background-color:#faebd7 ;
+}
+
+#vision {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Garamond;
+    color: #3300CC;
+}
+
+.text {
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 25px;
+    color: #3300CC;
+}
+
+.text1 {
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    display:inline;
+}
+
+.stat {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Garamond;
+    font-style: italic;
+    color: #3300Cc;
+}
+
+#Name {
+    font-weight:bold;
+    font-family: Gothic;
+    color:blue;
+    
+}
+
+#p2 {
+    height: 30%;
+}
+
+#p1 {
+    height: 500px;
+}
+
+.simg {
+    width:100%;
+}
+.bs-example  .carousel-inner > .item >.simg.simg-short {
+    width:100%;
+    height:100%;
+}
+.bs-example  .carousel-inner > .item {
+  height:400px;  
+} 
