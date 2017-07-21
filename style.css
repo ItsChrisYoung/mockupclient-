@@ -4,22 +4,23 @@
     height: 60px;
     float: right;
 }
-.h1 {
-    text-align:center;
-    font-family: Gothic;
-    font-size:50px;
-}
 
+.h1 {
+    text-align: center;
+    font-family: Gothic;
+    font-size: 50px;
+    font-weight: bold;
+}
 
 .h2 {
-    text-align:center;
+    text-align: center;
     font-family: Gothic;
-    font-size:20px;
+    font-size: 25px;
+    font-weight: bold;
 }
 
-
 .page {
-    background-color:#faebd7 ;
+    background-color: #faebd7;
 }
 
 #vision {
@@ -40,9 +41,19 @@
 .text1 {
     font-family: Garamond;
     font-weight: bold;
-    font-size: 25px;
-    color: black;
-    display:inline;
+    font-size: 19px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.text2 {
+    font-family: Garamond;
+    font-weight: bold;
+    font-size: 19px;
+    color: white;
+    background-color: black;
+    height: 50px;
 }
 
 .stat {
@@ -51,14 +62,13 @@
     font-size: 25px;
     font-family: Garamond;
     font-style: italic;
-    color: #3300Cc;
+    color: black;
 }
 
 #Name {
-    font-weight:bold;
+    font-weight: bold;
     font-family: Gothic;
-    color:blue;
-    
+    color: blue;
 }
 
 #p2 {
@@ -70,12 +80,63 @@
 }
 
 .simg {
+    width: 100%;
+}
+
+.bs-example .carousel-inner>.item>.simg.simg-short {
+    width: 100%;
+    height: 100%;
+}
+
+.bs-example .carousel-inner>.item {
+    height: 500px;
+}
+
+
+/*#goat {
+    float: top;
+}*/
+
+.text3 {
+     color:black;
+     font-size:30px;
+     font-family:Arial N;
+}
+
+#text1 {
+    font-family: Garamond;
+}
+
+.challenge {
+    text-align: center;
+    font-size: 50px;
+}
+
+.challenges {
+    font-size: 25px;
+    text-align: left;
+    font-family: garamond;
+    color: #0039E8;
+}
+
+
+
+#simg {
+    height:200px;   
+}
+
+#tiffany {
+    display: block ;
+    margin: 0 auto;
+    width: 95%;
+    height: 300px ;
+}
+
+#mayo {
+    width:100%;
+    height:50%;
+}
+
+.fimg {
     width:100%;
 }
-.bs-example  .carousel-inner > .item >.simg.simg-short {
-    width:100%;
-    height:100%;
-}
-.bs-example  .carousel-inner > .item {
-  height:400px;  
-} 
